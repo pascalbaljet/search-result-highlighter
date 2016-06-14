@@ -1,4 +1,4 @@
-<?php namespace Exin\Services;
+<?php
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
